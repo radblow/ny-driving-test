@@ -1,0 +1,732 @@
+[
+  
+  {
+    "_comment": "1",
+    "question": "What should you do if you're driving really slowly and causing a traffic jam behind you?",
+    "options": [
+      "Close your eyes and keep driving",
+      "Pull off the right side of the road and let traffic pass",
+      "Pull of the left side of the road",
+      "Speed up and race with other cars"
+    ],
+    "answer": "Pull off the right side of the road and let traffic pass",
+    "explanation": "If you're driving very slowly and causing a traffic backup, it's a good idea to pull off the right side of the road to allow faster traffic to pass. This keeps the traffic flow smooth and avoids congrestion."
+  },
+  
+  {
+    "_comment": "2",
+    "question": "How can you safely inspect your surroundings before initiating the process of reversing your car?",
+    "options": [
+      "Use your side mirrors only",
+      "Honk the horn to alert others",
+      "Turn on the radio for better awareness",
+      "Check all mirrors, look over your shoulder, and use rearview mirrors"
+    ],
+    "answer": "Check all mirrors, look over your shoulder, and use rearview mirrors",
+    "explanation": "Before reversing your car, it's crucial to check all mirrors, look over your shoulder, and use rearview mirrors to ensure a comprehensive understanding of your surrounding and minimize blind spotys."
+  },
+  {
+    "_comment": "3",
+    "question": "What is black ice and why is it so dangerous?",
+    "options": [
+      "It does not exist. There is no such thing as black ice",
+      "Something your friends at school use to change the color of their drinking water",
+      "You drive a four wheel drive car so you do not need to be concerned about black ice",
+      "A thick coat of highly transparent ice, which means it blends into the road well and makes it harder to see."
+    ],
+    "answer": "A thick coat of highly transparent ice, which means it blends into the road well and makes it harder to see.",
+    "explanation": "Black ice is very hard to see. This is what makes it so dangerous. When driving in colder temperatures and the pavement is wet; there is always a chance for black ice to occur. Black ice frequently occuers when the sun warms snow and ice during the day, temperatures drop once the sun goes down, and the snow and ice that turned into water will now freeze making it hard to see. AN area of the roadway might look wet, when indeed it is ice. Be prepared when driving during these types of situations."
+  },
+  {
+    "_comment": "4",
+    "question": "What does a flashing red light on a traffice signa mean?",
+    "options": [
+      "Go as fast as you can",
+      "Keep going without stopping",
+      "Speed up and honk your horn",
+      "The same thing as a stop sign"
+    ],
+    "answer": "The same thing as a stop sign",
+    "explanation": "When you see a flashing light on a traffic signal, it means you must stop, just like when you see a stop sign. It's a way to keep everyone save and make sure no one gets  into an accident at that intersection."
+  },
+  {
+    "_comment": "5",
+    "question": "What should you do when you see a steady yellow light at an intersection?",
+    "options": [
+      "Speed up and go as fast as you can",
+      "Turn around and go back",
+      "Slow down and prepare to stop",
+      "Honk your horn loudly"
+    ],
+    "answer": "Slow down and prepare to stop",
+    "explanation": "When a yellow light is steady at an intersection, it's a signal to slow down and get ready to stop your car. This helps make sure you can safely stop before the light turns red."
+  },  
+  {
+    "_comment": "6",
+    "question": "When should you leave more space between your car and the one in front?",
+    "options": [
+      "When you want to race",
+      "When you're in a hurry",
+      "When you're driving with a friend",
+      "Driving behind a large vehicle that block your vision"
+    ],
+    "answer": "Driving behind a large vehicle that block your vision",
+    "explanation": "It's important to give yourself more space when you're driving behind a big vehicle that you can't see around. This way, you can see what's happening on the road and have more time to react if something goes wrong."
+  },  
+  {
+    "_comment": "7",
+    "question": "When is it okay for drivers to drive across or park on a median?",
+    "options": [
+      "Whenever they want",
+      "Only on weekends",
+      "When they want to have a picnic",
+      "They should never drive into a median"
+    ],
+    "answer": "They should never drive into a median",
+    "explanation": "Drivers should never drive across or park on a median. Medians are there to separate lanes of traffic and ensure safety on the road."
+  }, 
+  {
+    "_comment": "8",
+    "question": "What does the green arrow on a lane use control signal tell you?",
+    "image": "/images/sign_1.png",
+    "options": [
+      "Stop and wait",
+      "You may use this lane",
+      "Turn around and go back",
+      "Speed up and pass quickly"
+    ],
+    "answer": "You may use this lane",
+    "explanation": "When you see a green arrow on a lane use control signal, it means that you're allowed to use that lane. It's like a special sign that says it's okay to drive in that lane."
+  }, 
+  {
+    "_comment": "9",
+    "question": "What should you do before moving your car into another lane on a big road?",
+    "options": [
+      "Quickly change lanes without signaling to avoid disrupting traffic",
+      "Speed up and squeeze between two cars",
+      "Come to a complete stop and then merge into the other lane",
+      "Use your turn signal, check your mirrors, and blind spots, and ensure it's safe to merge"
+    ],
+    "answer": "Use your turn signal, check your mirrors, and blind spots, and ensure it's safe to merge",
+    "explanation": "Changing lanes safely involves signaling your intention to change lanes, checking your mirrors for other vehicles, and looking over your shoulder to check your blind spots to ensure there are no vehicles in your intended path. This process ensures safe and smooth lane changes, minimizing the risk of accidents."
+  }, 
+  {
+    "_comment": "10",
+    "question": "What does this sign tell you about what's happening on the road?",
+    "image": "/images/sign_2.jpg",
+    "options": [
+      "A rest stop up ahead",
+      "A picnic area or park nearby",
+      "Flagger ahead",
+      "A school crossing"
+    ],
+    "answer": "Flagger ahead",
+    "explanation": "This sign lets you know that there is a flagger up ahead who might be directing traffic. Be preparted to follow their instructions to keep everyone safe on the road."
+  }, 
+  {
+    "_comment": "11",
+    "question": "What happens to roads when they become very cold?",
+    "options": [
+      "Roads stay the same, and their condition doesn't change",
+      "Roads can become more brittle and prone to cracking or developing potholes",
+      "Roads become softer and more pliable",
+      "Roads become smoother and more durable"
+    ],
+    "answer": "Roads can become more brittle and prone to cracking or developing potholes",
+    "explanation": "When roads are exposed to very cold temperatures, they contract and may become more brittle. This contraction and brittleness can lead to the development of cracks and potholes, especially if there is freeze-thaw cycling, where the road freezes at night and thaws during the day. This process can be damaging to road surfaces and reuires maintenance to keep the road in good condition."
+  }, 
+  {
+    "_comment": "12",
+    "question": "What does this sign show you might find on the road?",
+    "image": "/images/sign_3.jpg",
+    "options": [
+      "A deer crossing",
+      "A picture of a silhouette of a deer",
+      "An Arrow pointing to the direction where deer may be crossing",
+      "The words Deer Crossing"
+    ],
+    "answer": "A deer crossing",
+    "explanation": "This sign tells you that you should be extra careful because there might be deer crossing the road in this area. IT helps keep both drivers and deer safe."
+  }, 
+  {
+    "_comment": "13",
+    "question": "What do you need to do before making a left turn?",
+    "options": [
+      "Honk your horn loudly",
+      "Yield to oncoming vehicles",
+      "Close your eyes and hope for the best",
+      "Do a dance"
+    ],
+    "answer": "Yield to oncoming vehicles",
+    "explanation": "Before making a left turn, it's important to yield the right-of-way to oncoming vehicles. This means you should let them pass before you make your turn to avoid a collision."
+  }, 
+  {
+    "_comment": "14",
+    "question": "What does this sign on the road tell you might be coming up?",
+    "image": "/images/sign_4.jpg",
+    "options": [
+      "A hospital or medical facility",
+      "A location related to emergency services",
+      "A recreational area or park",
+      "Traffic signal ahead"
+    ],
+    "answer": "Traffic signal ahead",
+    "explanation": "This sign let's you know that there's a traffic signal up ahead, and it's a reminder to be prepared to slow down and follow the traffic rules when you see the signal. It helps everyone stay safe on the road."
+  }, 
+  {
+    "_comment": "15",
+    "question": "How are fines for breaking traffic rules in school zones different?",
+    "options": [
+      "Reduced",
+      "Tripled",
+      "Doubled",
+      "Stay the same"
+    ],
+    "answer": "Doubled",
+    "explanation": "Fines for moving traffic violations in school zones are doubled, which means they become twice as much as regular fines. This is to encourage drivers to be extra cautious and keep kids safe in these areas."
+  }, 
+  {
+    "_comment": "16",
+    "question": "What can make cars on the road move very slowly?",
+    "options": [
+      "Heavy pedestrian traffic on the sidewalks",
+      "Drivers increasing their speed due to clear roads",
+      "Slowing down to look at a collision scene",
+      "Changes in speed limits"
+    ],
+    "answer": "Slowing down to look at a collision scene",
+    "explanation": "When drivers slow down to look at a car crash, it can create traffic jams and block the smooth flow of traffic. It's important to keep moving and not cause more problems on the road."
+  }, 
+  {
+    "_comment": "17",
+    "question": "When are the roads the slipperiest",
+    "options": [
+      "On sunny days",
+      "During a snowstorm",
+      "After a car wash",
+      "During the first rain after a dry spell"
+    ],
+    "answer": "During the first rain after a dry spell",
+    "explanation": "Roads are most slippery when it starts raining after a dry period because the rain mixes with the accumulated oil and dirt on the road, making it extra slick. Be cautious and drive carefully in these conditions to avoid accidents."
+  }, 
+  {
+    "_comment": "18",
+    "question": "Under what circumstances are you permitted to ulilize High Occupancy Vehicle lanes while driving?",
+    "options": [
+      "When you have two or more passengers in your vehicle",
+      "When you are driving a public transportation vehicle",
+      "Whe nyou are driving an electric car",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "High Occupancy Vehicle (HOV) lanes can be leggally accessed when specific conditions are met, such as having two or more passengers in the vehicle, operating a public trasportation vehicle, or driving an electric car. Adhering to these requirements allows drivers to utilize HOV lanes, promoting carpooling, public transportation usage, and eco-friendly driving practices."
+  }, 
+  {
+    "_comment": "19",
+    "question": "What should you do when you see an emergency vehicle with sirens and flashhing lights coming towards you?",
+    "options": [
+      "Speed up and race the emergency vehicle",
+      "Keep driving as usual",
+      "Close your eyes and hope it goes away",
+      "Pull to the right and stop"
+    ],
+    "answer": "Pull to the right and stop",
+    "explanation": "When you see an emergency vehicle with sirens and flashing lights, you should quickly and safely move your car to the right isde of the road and come to a complete stop. This alllows the emergency vehicle to pass safely and reach its destination to help others in need."
+  }, 
+  {
+    "_comment": "20",
+    "question": "What is something important to know about taking drugs and driving?",
+    "options": [
+      "Taking drugs can improve your driving skills",
+      "Drugs have no effect on driving ability",
+      "Even over-the-counter drugs can impair your driving",
+      ""
+    ],
+    "answer": "Even over-the-counter drugs can impair your driving",
+    "explanation": "It's essential to understand that even some over-the-counter medicines can make you a less safe driver, so you should be cautious taking any kind of drigs before driving. Always read the labels and talk to a doctor if you're unsure about how a drug might affect your ability to drive safely."
+  }, 
+  {
+    "_comment": "21",
+    "question": "When is it okay to use your car's flashing hazard lights?",
+    "options": [
+      "When your vehicle is stopped or disabled on the highway or shoulder",
+      "When you're at a drive-in movie",
+      "When your car is parked at home",
+      "When you want to race with other drivers"
+    ],
+    "answer": "When your vehicle is stopped or disabled on the highway or shoulder",
+    "explanation": "You can use your car's flashing hazard lights when your vehicle is stopped or having problems on the highway or shoulder to let other drivers know that something is wrong. This helps keep you and other drivers safe."
+  }, 
+  {
+    "_comment": "22",
+    "question": "How might drinking alcoholic beverages change the way you react?",
+    "options": [
+      "It makes you a better driver",
+      "It has no effect on you",
+      "It slows your reaction time",
+      "It makes you see better"
+    ],
+    "answer": "It slows your reaction time",
+    "explanation": "Alcohol can slow down your ability to react quickly, making it dangerous to drive after drinking. It's important to avoid drinking and driving to stay safe on the road."
+  }, 
+  {
+    "_comment": "23",
+    "question": "What should you do with your headlights when it's raining?",
+    "options": [
+      "Turn on your high beam headlights",
+      "Turn off your headlights",
+      "Use low beam headlights",
+      "Use your fog lights "
+    ],
+    "answer": "Use low beam headlights",
+    "explanation": "When it's raining, it's a good idea to use your low beam headlights to help you see better and make your vehicle more visible to others on the road. High beams can cause glare and reduce visibility in rainy conditions."
+  }, 
+  {
+    "_comment": "24",
+    "question": "You're driving in the left lane, and cars are passing you on the right. What should you do if the driver behind you wants to go faster?",
+    "options": [
+      "Stop your car",
+      "Close your eyes and keep driving",
+      "Move into the right lane when it is safe",
+      "Speed up and race with them"
+    ],
+    "answer": "Move into the right lane when it is safe",
+    "explanation": "If the driver behind you wants to go faster, it's a good idea to change lanes to the right when it's safe to do so. This allows them to pass you safely and keeps the traffic flowing smoothly."
+  }, 
+  {
+    "_comment": "25",
+    "question": "Who should always wear their seat belt every time they ride in a car?",
+    "options": [
+      "Only the driver",
+      "All occupants of a car every time the car is driven",
+      "Only the people in the back seat",
+      "No one needs to wear seat belts"
+    ],
+    "answer": "All occupants of a car every time the car is driven",
+    "explanation": "Seat belts work best when everyone in the car wears them every time they go for a ride. This keeps everyone safe in case of an accident."
+  }, 
+  {
+    "_comment": "26",
+    "question": "What color are the lines that separate lanes of traffic moving in the same direction?",
+    "options": [
+      "Red",
+      "White",
+      "Green",
+      "Blue"
+    ],
+    "answer": "White",
+    "explanation": "When you see white lines on the road, it means the lanes are diving traffic moving in the same direction. They help driver stay in their lanes and drive safely."
+  }, 
+  {
+    "_comment": "27",
+    "question": "What should you do if a car is driving very closely?",
+    "options": [
+      "Wave at the driver to stop",
+      "Speed up to get away",
+      "Merging into another lane",
+      "Slam on your brakes"
+    ],
+    "answer": "Merging into another lane",
+    "explanation": "If a car is following too closely (tailgating), it's a good idea to safely change lanes nad let them pass. This can help prevent accidents by creating more space between your car and the one behind you."
+  }, 
+  {
+    "_comment": "28",
+    "question": "What should you do when you park your car on an uphill street with a curb?",
+    "options": [
+      "Turn the front wheels toward the curb",
+      "Keep the wheels straight",
+      "Speed up and honk the horn",
+      "Turn the front wheels away from the curb"
+    ],
+    "answer": "Turn the front wheels away from the curb",
+    "explanation": "When you park uphill with a curb, you should turn the front wheels away from the curb. This way, if your car starts rolling, it will go away from the road and not into traffic, making it safer."
+  }, 
+  {
+    "_comment": "29",
+    "question": "What should drivers do when the weather is not good for driving?",
+    "options": [
+      "Drive faster",
+      "Follow very closely to the car in front",
+      "Hink their horn constantly",
+      "Increase their following distance"
+    ],
+    "answer": "Increase their following distance",
+    "explanation": "When the weather is bad, like when it's rainy or snowy, drivers should give more space between their car and the one in front. This makes it safer because it takes longer to stop in bad weather, and you want to avoid accidents."
+  }, 
+  {
+    "_comment": "30",
+    "question": "When should you listen to what a signal person says at a road construction site?",
+    "options": [
+      "Only on weekends",
+      "When you're in a hurry",
+      "At all times",
+      "Never"
+    ],
+    "answer": "At all times",
+    "explanation": "You should always follow t he instructions of the signal person at a road construction site to keep everyone safe and ensure the construction work goes smoothly."
+  }, 
+  {
+    "_comment": "31",
+    "question": "What does this sign tell you about?",
+    "image": "/images/sign_5.jpg",
+    "options": [
+      "School",
+      "A church",
+      "Intersection",
+      "A library"
+    ],
+    "answer": "Intersection",
+    "explanation": "This sign is used to let drivers know that they are approaching an intersection, which is where two or more orads come together. It's important to pay attention to such signs for safe driving."
+  }, 
+  {
+    "_comment": "32",
+    "question": "What kind of space on the road do motorcycles have teh right to use?",
+    "options": [
+      "The same full lane width as other motor vehicles",
+      "The sidewalk",
+      "Only a tiny strip on the side of the road",
+      "The grassy area next to the road"
+    ],
+    "answer": "The same full lane width as other motor vehicles",
+    "explanation": "Motorcycles have the right to use the same amount of space on the road as other vehicles. This helps keep riders safe and allows them to travel like everyone else."
+  }, 
+  {
+    "_comment": "33",
+    "question": "Which of these things is a good idea when you want to change lanes?",
+    "options": [
+      "Don't look, just switch lanes quickly",
+      "Don't check your mirrors",
+      "Look over your right shoulder for a right lane change and your left shoulder for a left lane change",
+      "Do not check for blind spots"
+    ],
+    "answer": "Look over your right shoulder for a right lane change and your left shoulder for a left lane change",
+    "explanation": "When you want to change lanes, it's important to check your blind spots by looking over your shoulder in the direction you want to go. THis helps you make sure there are no other cars there, keeping you and others safe."
+  }, 
+  {
+    "_comment": "34",
+    "question": "When should you look over your shoulder to check your blind spot?",
+    "options": [
+      "Only when changing lanes to the right",
+      "Every time you prepare to change lanes or merge",
+      "Only when chaning lanes to the left",
+      "Only when you are on a highway"
+    ],
+    "answer": "Every time you prepare to change lanes or merge",
+    "explanation": "Looking over your shoulder to check your blind spot is an important practice in safe driving. It involves glancing to the side and behind your vehicle to ensure there are no vehicles or obstacles in areas not visible in your mirrors. This is essential when you're considering changing lanes or merging with traffic to prevent potential accidents."
+  }, 
+  {
+    "_comment": "35",
+    "question": "What's the right thing to do when you see an emergency vehicle with flashing red or blue lights coming towards you?",
+    "options": [
+      "Speed up and get out of the way quickly",
+      "Continue driving as usual",
+      "Pull over to the side of the road and come to a complete stop",
+      "Drive close to the emergency vehicle"
+    ],
+    "answer": "Pull over to the side of the road and come to a complete stop",
+    "explanation": "When you see an emergency vehicle with a flashing red or blue lights, you should pull over to the side of the road and stop. This helps the emergency vehicle get where it needs to go quickly to help people who might be in trouble."
+  }, 
+  {
+    "_comment": "36",
+    "question": "What information does this white sign with a picture convey?",
+    "image": "/images/sign_6.png",
+    "options": [
+      "Pass traffic in the right lane",
+      "Immediately pull over",
+      "You should slow down and move to the right lane",
+      "Stay in the right lane if you are driving more slowly than other traffic"
+    ],
+    "answer": "Stay in the right lane if you are driving more slowly than other traffic",
+    "explanation": "This sign is telling you to drive in the right lane if you're going slower than the other cars. It helps keep traffic moving smoothly and safely."
+  }, 
+  {
+    "_comment": "37",
+    "question": "In what order do tragffic lights show their colors, from the top to the bottom?",
+    "image": "/images/sign_7.png",
+    "options": [
+      "Blue, yellow, red",
+      "Red, yellow, green",
+      "Purple, green, orange",
+      "Pink, brown, gray"
+    ],
+    "answer": "Red, yellow, green",
+    "explanation": "The correct order for traffic lights, from the top to the bottom, is read at the top, then yellow in the middle, and green at the bottom. Drivers should know what each color means to follow the rules of the road safely."
+  }, 
+  {
+    "_comment": "38",
+    "question": "What does this road sign tell you about the speed limit on the road?",
+    "image": "/images/sign_8.jpg",
+    "options": [
+      "55 mph",
+      "45 mph",
+      "50 mph",
+      "65 mph"
+    ],
+    "answer": "55 mph",
+    "explanation": "This sign lets you know that the fastest you can legally drive on this road is 55 miles per hour. It's important to follow the speed limits to stay safe on the road"
+  }, 
+  {
+    "_comment": "39",
+    "question": "What can make a driver not pay attention to the road?",
+    "options": [
+      "Talking or texting on a cellular phone",
+      "Looking at road signs",
+      "Talking to a friend",
+      "Eating a snack"
+    ],
+    "answer": "Talking or texting on a cellular phone",
+    "explanation": "Distracted driving can happen when a driver is using their phone to talk or text, which takes teir attention away from driving safely. It's important to avoid distractions and focus on the road."
+  }, 
+  {
+    "_comment": "40",
+    "question": "When is passing not allowed?",
+    "options": [
+      "On straight roads",
+      "In parking lots",
+      "At intersections",
+      "In your driveway"
+    ],
+    "answer": "At intersections",
+    "explanation": "You should not pass other cars at intersectios, which are places where roads cross each other. It's important to wait your turn and be patient to stay safe when driving."
+  }, 
+  {
+    "_comment": "41",
+    "question": "What should a driver do when getting onto the interstate from an entrance ramp?",
+    "options": [
+      "Should honk their horn loudly",
+      "Should drive as fast as they can",
+      "Should yield to drivers already on the interstate",
+      "Should stop and have a snack"
+    ],
+    "answer": "Should yield to drivers already on the interstate",
+    "explanation": "When a driver is entering the interstate from an entrance or acceleration ramp, it's important to slow down and yield to the cars that are already on the interstate to merge safely into traffic. This keeps everyone on the road safe and traffic moving smoothly."
+  }, 
+  {
+    "_comment": "42",
+    "question": "When should you listen to what a school crossing guard says?",
+    "options": [
+      "Only on weekends",
+      "When you're in a hurry",
+      "Never",
+      "At all times"
+    ],
+    "answer": "At all times",
+    "explanation": "School crossing guards help kids safely cross the road, so it's important to follow their instructions at all times to keep everyone safe."
+  }, 
+  {
+    "_comment": "43",
+    "question": "What should you do when you're driving in a travel lane on the road?",
+    "options": [
+      "Stop as soon as you can",
+      "Honk your horn",
+      "Don't stop for any reason. Keep moving until you can safely pull of the road",
+      "Change lanes without looking"
+    ],
+    "answer": "Don't stop for any reason. Keep moving until you can safely pull of the road",
+    "explanation": "When you're in travel lane on the road, it's important to keep moving and not stop unless it's safe to pull over. Stopping in the middle of the road can be very dangerous."
+  },
+  {
+    "_comment": "44",
+    "question": "What should you do when you want to move your car from one lane to another?",
+    "options": [
+      "Close your eyes and hope for the best",
+      "Signal, check your mirrors, check your blind spot in the direction you plan to move, then change lanes",
+      "Drive as fast as you can",
+      "Blow your horn loudly"
+    ],
+    "answer": "Signal, check your mirrors, check your blind spot in the direction you plan to move, then change lanes",
+    "explanation": "When you want to change lanes, it's important to follow these steps. Signaling, checking your mirrors, and looking in your blind spot helps you do it safely and lets other drivers know your intentions on the road."
+  },
+  {
+    "_comment": "45",
+    "question": "You're driving, and the car in front of yuo stops at a crosswalk. What's the best thing for you to do?",
+    "options": [
+      "Honk your horn",
+      "Stop, proceeding only when all the pedestrians have crossed",
+      "Pass the stopped car quickly",
+      "Drive around the stopped car"
+    ],
+    "answer": "Stop, proceeding only when all the pedestrians have crossed",
+    "explanation": "When the car in front of yuo stops at a crosswalk, it's a sign that pedestrians might be crossing. You should also stop and wait until all the people on foot have safely crossed the road before you continue driving."
+  },
+  {
+    "_comment": "46",
+    "question": "Why should drivers pay extra attention to people on motorcycles, bicycles, and people walking on the road?",
+    "options": [
+      "Because they're diffucult to see in traffic",
+      "Because they never use the road",
+      "Because they are easy to see",
+      "Because they're too fasr"
+    ],
+    "answer": "Because they're diffucult to see in traffic",
+    "explanation": "Motorcyclists, bicyclists, and pedestrians can be harder to spot in traffic, so it's important for drivers to be extra cautious and watch out for them to keep everyone safe on the road."
+  },
+  {
+    "_comment": "47",
+    "question": "What can happen when you're very, very tired while driving?",
+    "options": [
+      "Missing an exit",
+      "Falling asleep behind the wheel and crashing",
+      "Being late for an appointment",
+      "You will drive perfectly"
+    ],
+    "answer": "Falling asleep behind the wheel and crashing",
+    "explanation": "Being very tired while driving can make you fall asleep, which is dangerous and can lead to a card crash. It's important to stay awake and alert when you're behind the wheel to keep yourself and others safe."
+  },
+  {
+    "_comment": "48",
+    "question": "What does this sign tell you about the road?",
+    "image": "/images/sign_9.png",
+    "options": [
+      "A pedestrian crossing area",
+      "It's always dry and safe",
+      "A speed bump or uneven road",
+      "Slippery when wet"
+    ],
+    "answer": "Slippery when wet",
+    "explanation": "This sign warns that the road can be slippery when it's raining, so drivers should be extra careful to avoid accidents."
+  },
+  {
+    "_comment": "49",
+    "question": "What is Parallel Parking?",
+    "options": [
+      "Parallel parking is when a vehicle is parked parallel to the curb and other parked vehicles",
+      "Parallel parking is when a vehicle is parked perpendicular to the curb",
+      "Parallel parking is when a vehicle is parked at a 45-degree angle to the curb",
+      "Parallel parking is when a vehicle is parked facing the opposite direction of traffic"
+    ],
+    "answer": "Parallel parking is when a vehicle is parked parallel to the curb and other parked vehicles",
+    "explanation": "Parallel parking is a specific method of parking a vehicle alongside a curb, typically between two parked cars. It involves positioning the vehicle parallel to the curb, with its wheels aligned and within a designated parking space. This maneuver requires careful coordination and skill to ensure the vehicle is properly aligned and doesn't obstuct traffic."
+  },
+  {
+    "_comment": "50",
+    "question": "What should you do when you want to turn right at the next intersection?",
+    "options": [
+      "Signal for 100 feet before turning",
+      "Switch lanes quickly before making the turn",
+      "Speed up and honk your horn",
+      "Turn without signaling"
+    ],
+    "answer": "Signal for 100 feet before turning",
+    "explanation": "When you want to make a right turn, it's important to slow down and let other drivers know your intentions by using your turn signal for at least 100 feet before turning. This helps everyone stay safe and understand your driving actions."
+  },
+  {
+    "_comment": "51",
+    "question": "As an oncoming car with bright headlights approaches, where should you direct your gaze on the road?",
+    "options": [
+      "Directly into the approaching headlights",
+      "At the road's centerline",
+      "Toward the right edge of the road",
+      "Close your eyes briefly to avoid glare"
+    ],
+    "answer": "Toward the right edge of the road",
+    "explanation": "WHen a car with high means approaches, you should look towards the right side of the road to avoid glare and safely drive on your side. It helps you see the road and other cars better."
+  },
+  {
+    "_comment": "52",
+    "question": "Waht does this sign tell you is coming up ahead?",
+    "image": "/images/sign_10.png",
+    "options": [
+      "A railroad crossing",
+      "A rest area us up ahead",
+      "Right turns only",
+      "A roundabout is ahead"
+    ],
+    "answer": "A railroad crossing",
+    "explanation": "This sign is a warning that you are approaching a place where a railroad track crosses the road. It's important to be cautuous when you see this sign to avoid any trains that might be coming."
+  },
+  {
+    "_comment": "53",
+    "question": "What can happen to people who are very sleepy when they drive?",
+    "options": [
+      "They become great drivers",
+      "They drive perfectly",
+      "They become faster drivers",
+      "Can drive so pooorly that they may appear to be drunk"
+    ],
+    "answer": "Can drive so pooorly that they may appear to be drunk",
+    "explanation": "When people are very tired, they can drive so poorly that it might look like they're drunk. It's important to get enough rest before driving to stay safe on the road."
+  },
+  {
+    "_comment": "54",
+    "question": "What can change how alcohol affects a person's body?",
+    "options": [
+      "Their intelligence",
+      "Their weight",
+      "Their height",
+      "Their judgment"
+    ],
+    "answer": "Their weight",
+    "explanation": "The amount of alcohol someone can handle can be influenced by their weight. Generally, a person who weight more may be able to absorb more alcohol without becoming impaired compared to someone who weighs less."
+  },{
+    "_comment": "55",
+    "question": "Why is it drawbar or towing connection significant when you're pulling a trailer or load with your car?",
+    "options": [
+      "It enhances the vehicle's appearance",
+      "It helps with fuel efficiency",
+      "It ensures safe and secure towing",
+      "It provides extra storage space"
+    ],
+    "answer": "It ensures safe and secure towing",
+    "explanation": "When you're towing something behind your vehicle, the drawbar or towing connection must be strong enough to handle the weight you're pulling to keep everyone safe on the road."
+  },{
+    "_comment": "56",
+    "question": "What does this sign with red circle and a line through it mean?",
+    "image": "/images/sign_11.jpg",
+    "options": [
+      "You should do that action",
+      "it's a suggestion",
+      "You can choose to do that action",
+      "That an action is forbidden"
+    ],
+    "answer": "That an action is forbidden",
+    "explanation": "When you see a sign with a red circle and a line through it, it means that the action shown on the sign is not allowed. It's a rule that must be followed."
+  },{
+    "_comment": "57",
+    "question": "What does this sign tell you about the place where it's placed?",
+    "image": "/images/sign_12.jpg",
+    "options": [
+      "Side road ahead",
+      "T-interection ahead",
+      "Lane reduction ahead",
+      "A right turn ahead"
+    ],
+    "answer": "T-interection ahead",
+    "explanation": "This sign is used to show an t-intersection, which is where two or more road come together. It helps drivers know how to navigate these areas safely."
+  },{
+    "_comment": "58",
+    "question": "What should you do when driving on snowy or icy roads?",
+    "options": [
+      "Drive super fast",
+      "Drive like it's a sunny day",
+      "Do lots of sharp turns",
+      "Make speed and directional changes more gradually than you would otherwise"
+    ],
+    "answer": "Make speed and directional changes more gradually than you would otherwise",
+    "explanation": "When you're driving or snowy icy roads, it's important to be extra careful. Making changes to your speed and direction slowly helps you stay in control of your car and avoid accidents."
+  },{
+    "_comment": "59",
+    "question": "What's the wrong thing to do if a car is about to bump you from behind?",
+    "options": [
+      "Scream loudly",
+      "Close your eyes",
+      "Hold onto the steering wheel tightly",
+      "Release your seat belt"
+    ],
+    "answer": "Release your seat belt",
+    "explanation": "If you're about to be hit from the rear, you should not release your seat belt. Your seat belt keeps you secure and safe, even in a collision."
+  },
+  {
+    "_comment": "60",
+    "question": "What does this road sign tell you about the road ahead?",
+    "image": "/images/sign_13.jpg",
+    "options": [
+      "A road joins from the right",
+      "Slow down and look for ice cream",
+      "There's a park nearby",
+      "You can drive really fast here"
+    ],
+    "answer": "A road joins from the right",
+    "explanation": "This road sign helps you know that another road is coming in from the right, so you should be extra careful and watch for cars that might be joining the road you're on. It's important to stay safe when driving."
+  }
+]
